@@ -1,6 +1,6 @@
 # MasterParser
 <p align="center">
-<img alt="masterparser logo" width="250"
+<img alt="masterparser logo" width="350"
 src="https://github.com/alwashmi/MasterParser/blob/master/logo.png" />
 </p>
 
