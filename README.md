@@ -1,7 +1,7 @@
 # MasterParser
 <p align="center">
 <img alt="masterparser logo" width="250"
-src="logo link" />
+src="https://github.com/alwashmi/MasterParser/blob/master/logo.png" />
 </p>
 
 <p align="center">
@@ -29,8 +29,7 @@ MasterParser is easy to use. It takes in three arguments:
       -o OUTFILE  output file
 
 ## Releases:
-You can find the latest windows binary release [here](https://github.com/muteb/Hoarder/releases/tag/3.2.0)
-For the time being you can run MasterParser.py from source for linux and mac ([Running and freezing from source](#running-and-freezing-from-source)). However, binary releases for linux and mac are in the works.
+You can find the latest windows binary release [here](https://github.com/alwashmi/MasterParser/releases/latest).
 
 ## Parsers
 MasterParser comes prepackaged with parsers, but you can add your own.
@@ -109,10 +108,10 @@ Pull requests and contributions are very appreciated and welcome!
 They will be tested then applied. We must be able to test them against a sample. We'll try to do some simple modifications if testing is not successful depending on the amount of modification needed.
 
 ## License
-This project is licensed under [GNU General Public License v3.0](license link)
+This project is licensed under [GNU General Public License v3.0](https://github.com/alwashmi/MasterParser/blob/master/LICENSE)
 
 ## Related projects
-- Hoarder https://github.com/muteb/Hoarder
+- Hoarder: https://github.com/muteb/Hoarder
 - Kuiper: https://github.com/DFIRKuiper/Kuiper
 
 ## More info
