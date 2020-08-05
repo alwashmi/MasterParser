@@ -111,6 +111,13 @@ They will be tested then applied. We must be able to test them against a sample.
 ## License
 This project is licensed under [GNU General Public License v3.0](https://github.com/alwashmi/MasterParser/blob/master/LICENSE)
 
+## Future
+- Add more parsers and improve existing parsers [on-going]
+- Performance testing and improvement [September 2020 release]
+- Memory usage optemization: Make all parsers produce each record json in a new line [September 2020 release]
+- MasterParser binaries for linux and MAC [December 2020 release]
+- Add parsers for linux and MAC artifacts [December 2020 release]
+
 ## Related projects
 - Hoarder: https://github.com/muteb/Hoarder
 - Kuiper: https://github.com/DFIRKuiper/Kuiper
