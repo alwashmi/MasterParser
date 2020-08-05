@@ -35,8 +35,9 @@ You can find the latest windows binary release [here](https://github.com/alwashm
 MasterParser comes prepackaged with parsers, but you can add your own.
 #### Prepackaged Parsers list
 Most of the prepackaged parsers are modified open-source parsers. Here is a list of these parsers with references and some useful information about each parser
+
 |Parser|Notes|Reference|
-|--|--|--|--|--|
+|---|---|---|
 |bitsadmin|`MasterParser.exe -p bitsadmin -i qmgr.db -o bitsadmin.json`|[ANSSI-FR](https://github.com/ANSSI-FR/bits_parser)|
 |browserhistory|`MasterParser.exe -p browserhistory -i History -o chromehistory.json` or `MasterParser.exe -p browserhistory -i WebCacheV01.dat -o iehistory.json` or `MasterParser.exe -p browserhistory -i places.sqlite -o firefoxhistory.json`|[salehmuhaysin](https://github.com/salehmuhaysin/BrowserHistory_ELK)|
 |csvparser|parses csv files into json files|[salehmuhaysin](https://github.com/salehmuhaysin)|
