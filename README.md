@@ -95,8 +95,8 @@ to add your own parser, you need to do the following:
 
  1. Create a directory under parsers with your parser name.
  2. Create a `__init__.py` file in your directory.
- 3. Create a interface for MasterParser
-	 - The interface must be in a file called `interface.py`
+ 3. Create an interface for MasterParser
+	 - The interface must be in a file called `interface.py` in your parser's directory
 	 - It must have a function with the following signature `imain(infile, outfile, kuiper = False)`
  4. add a line in parsers `__init__.py` to import your interface. Example: `from parsers.myparser import interface`
 #### Tips
@@ -106,7 +106,7 @@ to add your own parser, you need to do the following:
 
 ### Pull requests
 Pull requests and contributions are very appreciated and welcome!
-They will be tested then applied. We must be able to test them against a sample. We'll try to do some simple modifications if testing is not successful depending on the amount of modification needed.
+They will be tested then applied. We must be able to test them against a sample. We'll try to do some simple modifications if testing is not successful depending on the amount of modifications needed.
 
 ## License
 This project is licensed under [GNU General Public License v3.0](https://github.com/alwashmi/MasterParser/blob/master/LICENSE)
