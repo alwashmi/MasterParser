@@ -10,7 +10,7 @@ MasterParser is a simple, all-in-one, digital forensics artifact parser. It is b
 
 # NOTE (2020)
 This project latest version is now here: https://github.com/DFIRKuiper/Hoarder
-We are working on better version integrated with hoarder, kuiper, and Rhaegal.
+We are working on a better more stable version that is integrated with hoarder and Rhaegal.
 So, this repo will no longer be maintained.
 
 ## How to use it?
