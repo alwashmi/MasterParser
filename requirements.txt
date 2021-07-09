@@ -3,7 +3,7 @@ construct
 olefile==0.46
 bitstring==3.1.6
 python_dateutil==2.8.0
-Flask==0.12.4
+Flask==1.0
 libesedb-python
 docopt==0.6.2
 libesedb-python
