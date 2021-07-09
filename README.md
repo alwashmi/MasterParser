@@ -8,6 +8,11 @@ src="https://github.com/alwashmi/MasterParser/blob/master/logo.png" />
 MasterParser is a simple, all-in-one, digital forensics artifact parser. It is based on the parsers package of <a href="https://github.com/DFIRKuiper/Kuiper/tree/master/app/parsers">kuiper</a>. All parsers in Master parser produce JSON output with a master timestamp field (@timestamp) that is picked to best represent each parser (e.g. @timestamp for MFT is equivalent to FNCreated). You can ingest output from MasterParser into Kuiper, your favorite SIEM, or data platform (ELK, Splunk, etc.)
 </p>
 
+# NOTE (2020)
+This project latest version is now here: https://github.com/DFIRKuiper/Hoarder
+We are working on better version integrated with hoarder, kuiper, and Rhaegal.
+So, this repo will no longer be maintained.
+
 ## How to use it?
 MasterParser is easy to use. It takes in three arguments:
 
